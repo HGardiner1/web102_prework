@@ -182,6 +182,3 @@ firstGameContainer.appendChild(firstGameElement);
 const secondGameElement = document.createElement("p");
 secondGameElement.textContent = secondGame.name;
 secondGameContainer.appendChild(secondGameElement);
-
-console.log(firstGame);
-console.log(secondGame.name);
